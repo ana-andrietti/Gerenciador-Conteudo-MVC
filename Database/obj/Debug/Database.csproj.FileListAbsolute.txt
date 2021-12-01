@@ -1,0 +1,8 @@
+C:\Projetos\MVC_GerenciadorDeConteudo\Database\bin\Debug\Database.dll
+C:\Projetos\MVC_GerenciadorDeConteudo\Database\bin\Debug\Database.pdb
+C:\Projetos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Projetos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.dll
+C:\Projetos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.pdb
+C:\Projetos\MVC_GerenciadorDeConteudo\Database\bin\Debug\NVelocity.dll
+C:\Projetos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Projetos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.csproj.CopyComplete

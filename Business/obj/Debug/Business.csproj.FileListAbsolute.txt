@@ -1,0 +1,10 @@
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\bin\Debug\Business.dll
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\bin\Debug\Business.pdb
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\bin\Debug\Database.dll
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\bin\Debug\Database.pdb
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.dll
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.pdb
+C:\Projetos\MVC_GerenciadorDeConteudo\Business\bin\Debug\NVelocity.dll

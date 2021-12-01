@@ -1,0 +1,31 @@
+﻿@Scripts.Render("~/Scripts/jquery-3.4.1.js")
+@Scripts.Render("~/Scripts/cep.js")
+
+@{
+    Business.Cep cep = ViewBag.Cep;
+}
+
+<br />
+<br />
+<h1>Carregar CEP</h1>
+<br />
+<br />
+
+<form action="">
+    CEP:<br />
+    <input type="text" class="form-control" name="cep" value="@cep.CEP" />
+    <br />
+    Endereço:<br />
+    <input type="text" class="form-control" name="endereco" value="@cep.Endereco" />
+    <br />
+    Bairro:<br />
+    <input type="text" class="form-control" name="bairro" value="@cep.Bairro" />
+    <br />
+    Cidade:<br />
+    <input type="text" class="form-control" name="cidade" value="@cep.Cidade" />
+    <br />
+    Estado:<br />
+    <input type="text" class="form-control" name="estado" value="@cep.Estado" />
+    <br />
+</form>
+
